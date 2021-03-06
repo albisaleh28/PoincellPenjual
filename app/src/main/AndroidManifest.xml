@@ -15,7 +15,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PoincellPenjual"
         android:usesCleartextTraffic="true">
-        <activity android:name=".TambahPoin"></activity>
+        <activity android:name=".DataKonsumen"></activity>
+        <activity android:name=".TambahPoin" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

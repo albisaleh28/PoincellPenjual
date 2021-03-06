@@ -50,4 +50,6 @@ dependencies {
 
     /*Volley Library = Untuk koneksi ke Database*/
     implementation 'com.android.volley:volley:1.1.1'
+
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
 }

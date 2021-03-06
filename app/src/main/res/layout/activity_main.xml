@@ -348,6 +348,7 @@
                 android:orientation="horizontal">
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/btn_data_konsumen"
                     android:layout_width="160dp"
                     android:layout_height="170dp"
                     android:layout_marginLeft="18dp"
